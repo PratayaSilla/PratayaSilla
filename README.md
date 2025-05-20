@@ -1,17 +1,84 @@
-# 💫 About Me:
-Aspiring Full-Stack Developer | Tech Enthusiast<br><br>🚀 Passionate about building scalable web applications and exploring new technologies.<br>💡 Always eager to learn, experiment, and contribute to open-source projects.<br>🎯 Currently diving deeper into backend development
+<h1 align="center">Hi 👋, I'm Prataya Silla</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Tech Enthusiast | Motion Designer</h3>
 
+<p align="center">
+🚀 Passionate about building scalable web applications and creative digital experiences.<br/>
+🎯 Currently diving deeper into backend development, open-source contributions, and real-world freelance projects.<br/>
+📹 Also working with motion graphics and video editing to build a strong, creative portfolio.<br/>
+</p>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/pratayaforwork) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/proprataya/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratayasilla/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/proprataya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:proprataya339@gmail.com) 
+---
 
-# 💻 My Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PratayaSilla&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PratayaSilla&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratayaSilla&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/pratayasilla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/proprataya/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/proprataya" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="mailto:proprataya339@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.behance.net/pratayaforwork" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+
+### 💻 Tech Stack
+
+#### 🚀 Web & App Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+
+#### 🐍 Programming & Scripting
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+#### 🎨 Design & Motion Graphics
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/XD-470137.svg?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?style=flat&logo=dribbble&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PratayaSilla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=PratayaSilla&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratayaSilla&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PratayaSilla&theme=darkhub&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 💡 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🙋‍♂️ Fun Fact
+> I'm currently building a freelance-ready portfolio that blends **coding + creativity**. Let’s connect and collaborate!
 
