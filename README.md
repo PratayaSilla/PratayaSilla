@@ -53,18 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratayaSilla&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=PratayaSilla&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratayaSilla&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PratayaSilla&theme=darkhub&no-bg=true&no-frame=true" />
