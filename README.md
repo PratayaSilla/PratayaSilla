@@ -67,6 +67,6 @@
 
 ---
 
-### 🙋‍♂️ Fun Fact
-> I'm currently building a freelance-ready portfolio that blends **coding + creativity**. Let’s connect and collaborate!
+### 🙋‍♂️ Fact about me
+> I'm currently learning MERN stack to create more projects
 
