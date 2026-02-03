@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Universe
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi%2C+I'm+Prataya+Silla+%F0%9F%9A%80;Full-Stack+Developer+%7C+Motion+Designer+%7C+Creative+Technologist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=2000&height=120&lines=Hi%2C+I'm+Prataya+Silla+%F0%9F%9A%80;Full-Stack+Developer+%7C+Motion+Designer+%7C+Creative+Technologist)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
