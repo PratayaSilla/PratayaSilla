@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Universe
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi%2C+I'm+Prataya+Silla+%F0%9F%9A%80;Full-Stack+Developer+%7C+Motion+Designer+%7C+Creative+Technologist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1500&height=120&lines=Hi%2C+I'm+Prataya+Silla+%F0%9F%9A%80;Full-Stack+Developer+%7C+Motion+Designer+%7C+Creative+Technologist)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -152,9 +152,7 @@ const prataya = {
 
 <!-- ![Visitor Count](https://visitcount.itsvg.in/api?id=PratayaSilla&icon=5&color=0) -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-<img src="https://media1.tenor.com/m/t7WGV6oRYJEAAAAC/kitten-hearts.gif" width="200">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> -->
 
 **⭐ If you find my work interesting, don't hesitate to star my repositories!**
 
