@@ -89,10 +89,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PratayaSilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PratayaSilla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PratayaSilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=PratayaSilla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratayaSilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratayaSilla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10&count_private=true" />
 
 </div>
 
@@ -100,7 +100,7 @@
 
 ### 📈 Contribution Graph
 
-[![Prataya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PratayaSilla&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prataya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PratayaSilla&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PratayaSilla&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=PratayaSilla&theme=darkhub&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=15)
 
 </div>
 
@@ -144,21 +144,13 @@ const prataya = {
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://github.com/PratayaSilla/PratayaSilla/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
 ### � Thanks for Visiting!
 
-![Visitor Count](https://profile-counter.glitch.me/PratayaSilla/count.svg)
+![Visitor Count](https://visitcount.itsvg.in/api?id=PratayaSilla&icon=5&color=0)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
